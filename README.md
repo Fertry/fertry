@@ -7,7 +7,7 @@
   
 </div>
 
-<!-- Redes sociales -->
+<!-- Redes sociales 
 <div id="social" align="center">
   
   <a href="https://www.linkedin.com/in/alejandrofdeztrigo/" target="_blank">
@@ -19,6 +19,7 @@
   </a>
     
 </div>
+-->
 
 <!-- Descripción y conocimientos -->
 <div id="description">
