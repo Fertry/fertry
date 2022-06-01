@@ -3,7 +3,7 @@
 <!-- Cabecera -->
 <div id="header" align="center">
   
-  <img src="https://media0.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif" width="30"/>
+  <img src="https://media0.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif" width="300"/>
   
 </div>
 
@@ -26,7 +26,6 @@
   
   <h1>
      Hello there! 
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
   <p>
