@@ -29,7 +29,7 @@
   </h1>
 
   <p>
-    Computer Engineering student of the Computer Technologies branch, with special interest in the field of development and cybersecurity; now looking for internships. I usually     write about home automation projects and other topics on my website.
+    Computer Engineering student of the Computer Technologies branch, with special interest in the field of development and cybersecurity; now working in an intership. I usually write about home automation projects and other topics on my website.
   </p>
   
 </div>
