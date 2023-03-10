@@ -48,14 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
    
 </div>
-
----
-    
-<!-- Detalles -->
-<h3> :telescope: Some stats </h3>
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fertry&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fertry&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 This is the end mah friend.
